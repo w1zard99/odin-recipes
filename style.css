@@ -1,0 +1,14 @@
+div.container {
+    text-align: center;
+}
+
+img {
+    border-radius: 8px;
+    width: 600px;
+    height: auto;
+}
+
+ul.UL {
+    display: inline-block;
+    text-align: left;
+}
